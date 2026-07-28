@@ -20,8 +20,6 @@ package net.ccbluex.liquidbounce.utils.aiming.point
 
 import net.ccbluex.liquidbounce.config.types.group.ValueGroup
 import net.ccbluex.liquidbounce.event.EventListener
-import net.ccbluex.liquidbounce.features.module.modules.render.ModuleDebug
-import net.ccbluex.liquidbounce.features.module.modules.render.ModuleDebug.debugGeometry
 import net.ccbluex.liquidbounce.render.engine.type.Color4b
 import net.ccbluex.liquidbounce.utils.aiming.point.exempts.ExemptBestHitVector
 import net.ccbluex.liquidbounce.utils.aiming.point.exempts.ExemptBoxPart
