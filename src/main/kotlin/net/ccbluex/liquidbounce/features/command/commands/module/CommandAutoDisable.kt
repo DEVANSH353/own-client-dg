@@ -25,7 +25,6 @@ import net.ccbluex.liquidbounce.features.command.builder.ParameterBuilder
 import net.ccbluex.liquidbounce.features.command.builder.modules
 import net.ccbluex.liquidbounce.features.command.preset.pagedQuery
 import net.ccbluex.liquidbounce.features.module.ClientModule
-import net.ccbluex.liquidbounce.features.module.modules.world.ModuleAutoDisable
 import net.ccbluex.liquidbounce.utils.client.MessageMetadata
 import net.ccbluex.liquidbounce.utils.text.asText
 import net.ccbluex.liquidbounce.utils.client.bold
