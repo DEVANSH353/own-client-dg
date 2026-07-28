@@ -21,7 +21,6 @@ package net.ccbluex.liquidbounce.features.command.commands.module.teleport
 import net.ccbluex.liquidbounce.features.command.Command
 import net.ccbluex.liquidbounce.features.command.builder.CommandBuilder
 import net.ccbluex.liquidbounce.features.command.builder.ParameterBuilder
-import net.ccbluex.liquidbounce.features.module.modules.movement.ModuleTeleport
 import net.ccbluex.liquidbounce.lang.translation
 import net.ccbluex.liquidbounce.utils.block.canStandOn
 import net.ccbluex.liquidbounce.utils.block.collisionShape
