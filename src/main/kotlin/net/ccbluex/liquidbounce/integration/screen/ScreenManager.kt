@@ -34,7 +34,6 @@ import net.ccbluex.liquidbounce.event.suspendHandler
 import net.ccbluex.liquidbounce.event.waitMatchesWithTimeout
 import net.ccbluex.liquidbounce.features.misc.HideAppearance
 import net.ccbluex.liquidbounce.features.module.modules.render.ModuleClickGui
-import net.ccbluex.liquidbounce.features.module.modules.render.ModuleHud
 import net.ccbluex.liquidbounce.integration.backend.BrowserBackendManager
 import net.ccbluex.liquidbounce.integration.backend.browser.Browser
 import net.ccbluex.liquidbounce.integration.backend.browser.BrowserState
