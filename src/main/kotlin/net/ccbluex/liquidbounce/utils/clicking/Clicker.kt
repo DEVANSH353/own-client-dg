@@ -25,7 +25,6 @@ import net.ccbluex.liquidbounce.event.EventListener
 import net.ccbluex.liquidbounce.event.events.GameTickEvent
 import net.ccbluex.liquidbounce.event.events.KeybindIsPressedEvent
 import net.ccbluex.liquidbounce.event.handler
-import net.ccbluex.liquidbounce.features.module.modules.render.ModuleDebug.debugParameter
 import net.ccbluex.liquidbounce.utils.clicking.pattern.ClickPattern
 import net.ccbluex.liquidbounce.utils.clicking.pattern.patterns.ButterflyPattern
 import net.ccbluex.liquidbounce.utils.clicking.pattern.patterns.DoubleClickPattern
